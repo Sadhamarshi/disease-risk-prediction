@@ -1,0 +1,2 @@
+model,threshold,target_validation_recall,target_recall_met_on_validation,test_accuracy,test_precision,test_recall,test_f1_score,test_roc_auc,test_average_precision
+logistic_regression,0.5168705002126148,0.75,True,0.7426927094625224,0.3193043898315319,0.747949080622348,0.447547712750201,0.8227910754689706,0.4044580117254394
